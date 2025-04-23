@@ -1,7 +1,7 @@
 ---
 title: Welcome to my blog
 
-### Eric Price 
+<h3>Eric Price</h3>
 
 ---
 
