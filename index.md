@@ -1,7 +1,8 @@
 ---
 title: Welcome to my blog
 
-### Eric Price
+### sample text
+Eric Price
 
 ---
 
